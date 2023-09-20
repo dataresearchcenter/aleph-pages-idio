@@ -8,7 +8,7 @@ Some material in this Aleph is only accessible for registered users.
 
 Sign up with your Google or Github account or create a new account with your E-Mail.
 
-You will be asked to set up a 2-factor app to secure your login. We recommend "Authenticator" (from Google) or "FreeOTP", but any other OTP app should work.
+You will be asked to set up a 2-factor app to secure your login. We recommend "FreeOTP+" (android) or "OTP Auth" (iOS), but any other OTP app should work.
 
 To get started registering your account, click on the upper right corner "Login" and follow the instructions on screen.
 
