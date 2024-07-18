@@ -7,7 +7,7 @@ menu: true
 aleph.investigativedata.org is operated by (Impressum nach § 5 TMG, ebenso verantwortlich für den Inhalt nach § 55 Abs. 2 RStV):
 
 
-IDIO Daten Import Export UG (haftungsbeschränkt)
+IDIO Daten Import Export GmbH
 
 Gottschedstr. 4
 
