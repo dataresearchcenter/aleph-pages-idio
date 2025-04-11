@@ -1,7 +1,7 @@
 ---
 home: true
-title: 'Aleph'
-description: 'Search documents, companies and people'
+title: "OpenAleph"
+description: "The open source platform that securely stores large amounts of data and makes it searchable for easy collaboration."
 html: true
 samples: ["Vladimir Putin", "TeliaSonera"]
 ---
@@ -31,30 +31,4 @@ samples: ["Vladimir Putin", "TeliaSonera"]
       </div>
     </div>
   </div>
-</section>
-<section className="HomeScreen__section">
-<div className="HomeScreen__section__content">
-  <h1 className="HomeScreen__title">Build your investigative memory</h1>
-  <div className="HomeScreen__title-divider"></div>
-  <div className="HomeScreen__thirds">
-    <div className="HomeScreen__feature-block">
-      <div className="HomeScreen__feature-block__content">
-        <img src="/static/home_networks.svg" />
-        <p><b>Sketch out the defining connections</b> of your project in an investigation to keep track of your story as it develops.</p>
-      </div>
-    </div>
-    <div className="HomeScreen__feature-block">
-      <div className="HomeScreen__feature-block__content">
-        <img src="/static/home_documents.svg"/>
-        <p><b>Upload your own documents</b> and persons of interest lists, and share them with colleagues.</p>
-      </div>
-    </div>
-    <div className="HomeScreen__feature-block">
-      <div className="HomeScreen__feature-block__content">
-        <img src="/static/home_xref.svg" />
-        <p><b>Compare the persons in your investigations</b> with other datasets in bulk to find leads for further reporting.</p>
-      </div>
-    </div>
-  </div>
-</div>
 </section>
