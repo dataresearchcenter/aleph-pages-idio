@@ -1,5 +1,5 @@
 ---
-title: About Aleph
+title: About OpenAleph
 short: About
 menu: true
 ---
