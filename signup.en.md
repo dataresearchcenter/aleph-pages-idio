@@ -1,6 +1,6 @@
 ---
 title: Get access
-short: Register
+short: Sign Up
 menu: true
 ---
 
