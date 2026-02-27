@@ -6,10 +6,10 @@ html: true
 samples: ['Vladimir Putin', 'Monsanto']
 ---
 
-<section className="HomeScreen__section">
+<section className="HomeScreen__section HomeScreen__section--dark">
 <div className="HomeScreen__section__content">
   <div className="oa-header">
-    <div className="oa-pill">Features</div>
+    <div className="oa-pill">OpenAleph</div>
     <h1 className="HomeScreen__title">Everything you need to investigate</h1>
     <p>Search billions of documents and entities, cross-reference datasets, and collaborate on investigations — all from one open source platform.</p>
   </div>
@@ -42,13 +42,17 @@ samples: ['Vladimir Putin', 'Monsanto']
     <div className="oa-card">
       <div className="oa-card__icon"><img src="/static/1F512.svg" alt="selfhost" /></div>
       <h3>Secure &amp; independent</h3>
-      <p>Get your exclusive server managed by the <a hre="https://dataresearchcenter.org">Data and Research Center</a> on secure infrastructure. Full sovereignty, no cloud dependencies.</p>
+      <p>Get your exclusive server managed by the <a href="https://dataresearchcenter.org">Data and Research Center</a> on secure infrastructure. Full sovereignty, no cloud dependencies.</p>
     </div>
+  </div>
+  <div className="oa-buttons" style="margin-top: 48px">
+    <a href="mailto:hi@dataresearchcenter.org" className="oa-btn oa-btn--primary">Talk to us &rarr;</a>
+    <a href="https://openaleph.org/managed/" className="oa-btn oa-btn--ghost">Learn more</a>
   </div>
 </div>
 </section>
 
-<section className="HomeScreen__section">
+<section className="HomeScreen__section HomeScreen__section--light">
 <div className="HomeScreen__section__content">
   <div className="oa-header oa-header--light">
     <div className="oa-pill">Why OpenAleph</div>
@@ -75,7 +79,7 @@ samples: ['Vladimir Putin', 'Monsanto']
 </div>
 </section>
 
-<section className="HomeScreen__section">
+<section className="HomeScreen__section HomeScreen__section--dark">
 <div className="HomeScreen__section__content">
   <div className="oa-cta">
     <div className="oa-pill">Open source</div>
