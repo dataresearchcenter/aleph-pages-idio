@@ -1,9 +1,9 @@
 ---
 home: true
-title: 'OpenAleph'
-description: 'The open source platform for storing, searching, and analyzing large volumes of both structured and unstructured data and documents.'
+title: "OpenAleph"
+description: "The open source platform that securely stores large amounts of data and makes it searchable for easy collaboration."
 html: true
-samples: ['Vladimir Putin', 'Monsanto']
+samples: ["Vladimir Putin", "TeliaSonera"]
 ---
 
 <section className="HomeScreen__section HomeScreen__section--dark">
@@ -90,5 +90,4 @@ samples: ['Vladimir Putin', 'Monsanto']
       <a href="https://openaleph.org/blog" className="oa-btn oa-btn--ghost">Our blog</a>
     </div>
   </div>
-</div>
 </section>
