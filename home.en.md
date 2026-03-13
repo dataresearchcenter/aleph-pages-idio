@@ -9,7 +9,7 @@ samples: ['Vladimir Putin', 'Monsanto']
 <section className="HomeScreen__section HomeScreen__section--dark">
 <div className="HomeScreen__section__content">
   <div className="oa-header">
-    <div className="oa-pill">OpenAleph</div>
+    <div className="oa-pill">Features</div>
     <h1 className="HomeScreen__title">Everything you need to investigate</h1>
     <p>Search billions of documents and entities, cross-reference datasets, and collaborate on investigations — all from one open source platform.</p>
   </div>
