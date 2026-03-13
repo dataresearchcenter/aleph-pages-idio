@@ -57,7 +57,7 @@ samples: ['Vladimir Putin', 'Monsanto']
   <div className="oa-header oa-header--light">
     <div className="oa-pill">Why OpenAleph</div>
     <h1 className="HomeScreen__title">Built for investigators</h1>
-    <p>The <strong>Data and Research Center – DARC</strong>, the organization behind OpenAleph, supports investigative journalists, researchers, and analysts at newsrooms, NGOs, and compliance teams worldwide. We offer secure and exclusive deployments of OpenAleph tailored to your organizations needs.</p>
+    <p>The <strong>Data and Research Center – DARC</strong>, the organization behind OpenAleph, supports investigative journalists, researchers, and analysts in newsrooms, NGOs, and compliance teams worldwide. We offer secure and exclusive deployments of OpenAleph tailored to your organization’s needs.</p>
   </div>
   <div className="oa-values">
     <div className="oa-value">
@@ -84,7 +84,7 @@ samples: ['Vladimir Putin', 'Monsanto']
   <div className="oa-cta">
     <div className="oa-pill">Open source</div>
     <h1 className="HomeScreen__title">Free software, built in the open</h1>
-    <p>OpenAleph is maintained by the <a href="https://dataresearchcenter.org">Data and Research Center – DARC</a>, an independent organization providing data and research services for investigative teams, and a diverse open source community.</p>
+    <p>OpenAleph is maintained by the <a href="https://dataresearchcenter.org">Data and Research Center – DARC</a>, an independent organization providing data and research services for investigative teams and a diverse open source community.</p>
     <div className="oa-buttons">
       <a href="https://github.com/openaleph/openaleph" className="oa-btn oa-btn--primary">View on GitHub &rarr;</a>
       <a href="https://openaleph.org/blog" className="oa-btn oa-btn--ghost">Our blog</a>
