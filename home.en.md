@@ -82,7 +82,7 @@ samples: ["Donald Trump", "Владимир Путин", "习近平"]
       <p>Get your exclusive server managed by the <a href="https://dataresearchcenter.org">Data and Research Center</a> on secure infrastructure. Full sovereignty, no cloud dependencies.</p>
     </div>
   </div>
-  <div className="oa-buttons" style="margin-top: 48px">
+  <div className="oa-buttons" style={{marginTop: 48}}>
     <a href="mailto:hi@dataresearchcenter.org" className="oa-btn oa-btn--primary">Talk to us &rarr;</a>
     <a href="https://openaleph.org/managed/" className="oa-btn oa-btn--ghost">Learn more</a>
   </div>
@@ -127,4 +127,5 @@ samples: ["Donald Trump", "Владимир Путин", "习近平"]
       <a href="https://openaleph.org/blog" className="oa-btn oa-btn--ghost">Our blog</a>
     </div>
   </div>
+</div>
 </section>
