@@ -26,15 +26,15 @@ samples: ["Donald Trump", "Владимир Путин", "习近平"]
     <h1 className="HomeScreen__title">Curated Collections</h1>
     <p>
       We provide pre-compiled datasets for different investigative
-      scopes, covering{' '}
-      <strong>Lobbying and Funding in the EU</strong>,{' '}
-      <strong>Sanctions lists</strong>,{' '}
+      scopes, covering 
+      <strong>Lobbying and Funding in the EU</strong>,
+      <strong>Sanctions lists</strong>,
       <strong>Company registries</strong> and comprehensive
       <strong>document libraries</strong> from public sources.
     </p>
     <p>
       We are currently trying to make as much data public as possible, but some
-      sources are not up to date yet or hidden from anonymous users.{' '}
+      sources are not up to date yet or hidden from anonymous users.
       <a href="mailto:hi@dataresearchcenter.org">Get in touch</a> to
       get research access to our full data catalog.
     </p>
