@@ -12,7 +12,7 @@ samples: ["Donald Trump", "Владимир Путин", "习近平"]
     <div className="oa-pill">Explore</div>
     <h1 className="HomeScreen__title">In the News</h1>
     <p>
-      We got the data you need to kick off your next investigation.
+      We've got the data you need to kick off your next investigation.
     </p>
   </div>
   <HighlightTopics url="https://cdn.investigativedata.org/search.openaleph.org/topics.json" />
