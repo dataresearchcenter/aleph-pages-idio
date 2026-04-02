@@ -4,7 +4,9 @@ short: Impressum
 menu: true
 ---
 
-OpenAleph is a [DARC](https://dataresearchcenter.org) project and is open source, released under the [MIT license](https://github.com/investigativedata/aleph#MIT-1-ov-file).
+OpenAleph is a [DARC](https://dataresearchcenter.org) project and is open source, released under the [MIT license](https://github.com/openaleph/openaleph#MIT-1-ov-file).
+
+[Data privacy for search.openaleph.org](https://dataresearchcenter.org/legal/en/dataprivacy-openaleph/)
 
 search.openaleph.org is operated by (Impressum nach § 5 TMG, ebenso verantwortlich für den Inhalt nach § 55 Abs. 2 RStV):
 

@@ -9,6 +9,43 @@ samples: ["Donald Trump", "Владимир Путин", "习近平"]
 <section className="HomeScreen__section HomeScreen__section--dark">
 <div className="HomeScreen__section__content">
   <div className="oa-header">
+    <div className="oa-pill">Explore</div>
+    <h1 className="HomeScreen__title">In the News</h1>
+    <p>
+      We got the data you need to kick off your next investigation.
+    </p>
+  </div>
+  <HighlightTopics url="https://cdn.investigativedata.org/search.openaleph.org/topics.json" />
+</div>
+</section>
+
+<section className="HomeScreen__section HomeScreen__section--light">
+<div className="HomeScreen__section__content">
+  <div className="oa-header oa-header--light">
+    <div className="oa-pill">Datasets</div>
+    <h1 className="HomeScreen__title">Curated Collections</h1>
+    <p>
+      We provide pre-compiled datasets for different investigative
+      scopes, covering{' '}
+      <strong>Lobbying and Funding in the EU</strong>,{' '}
+      <strong>Sanctions lists</strong>,{' '}
+      <strong>Company registries</strong> and comprehensive
+      <strong>document libraries</strong> from public sources.
+    </p>
+    <p>
+      We are currently trying to make as much data public as possible, but some
+      sources are not up to date yet or hidden from anonymous users.{' '}
+      <a href="mailto:hi@dataresearchcenter.org">Get in touch</a> to
+      get research access to our full data catalog.
+    </p>
+  </div>
+  <DatasetGroups url="https://cdn.investigativedata.org/search.openaleph.org/dataset_groups.json" />
+</div>
+</section>
+
+<section className="HomeScreen__section HomeScreen__section--dark">
+<div className="HomeScreen__section__content">
+  <div className="oa-header">
     <div className="oa-pill">Features</div>
     <h1 className="HomeScreen__title">Everything you need to investigate</h1>
     <p>Search billions of documents and entities, cross-reference datasets, and collaborate on investigations — all from one open source platform.</p>
